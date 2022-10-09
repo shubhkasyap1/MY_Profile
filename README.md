@@ -67,13 +67,13 @@
 
 ###  Github Stats :
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap&show_icons=true&theme=dracula)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhkasyap1&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhkasyap1&theme=dracula&layout=compact)
 
 <a>
 
-<img align="center"  src="https://visitor-badge.glitch.me/badge?page_id=shubhkasyap.shubhkasyap" />
+<img align="center"  src="https://visitor-badge.glitch.me/badge?page_id=shubhkasyap1.shubhkasyap1" />
 
 </a>
 
@@ -96,19 +96,19 @@
 
   
 
-[instagram]:  https://www.instagram.com/shubhkasyap/
+[instagram]:  https://www.instagram.com/shubhkasyap1/
 
-[linkedin]:  https://www.linkedin.com/in/shubham-kumar-132940182/
+[linkedin]:  https://www.linkedin.com/in/shubhkasyap1/
 
-[github]:    https://github.com/shubhkasyap
+[github]:    https://github.com/shubhkasyap1
 
 ## Authors
 
-- [shubhkasyap](https://github.com/shubhkasyap)
+- [shubhkasyap](https://github.com/shubhkasyap1)
 
   
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-132940182/)
-[![twitter](https://img.shields.io/twitter/follow/Shubhamkasyyap?style=social)](https://twitter.com/Shubhamkasyyap)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhkasyap1/)
+[![twitter](https://img.shields.io/twitter/follow/Shubhamkasyyap?style=social)](https://twitter.com/shubhkasyap1)
 
   
